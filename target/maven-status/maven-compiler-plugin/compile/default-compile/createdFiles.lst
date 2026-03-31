@@ -1,8 +1,0 @@
-br\com\poojava\contract\Registravel.class
-br\com\poojava\model\Aluno.class
-br\com\poojava\model\Pessoa.class
-br\com\poojava\app\BibliotecaApp.class
-br\com\poojava\model\Emprestimo.class
-br\com\poojava\model\Professor.class
-br\com\poojava\service\Biblioteca.class
-br\com\poojava\model\Livro.class
